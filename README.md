@@ -27,6 +27,7 @@ The primary source of the dataset used is google form that was generated in the 
 ## Results and Findings
 
 ## Dashboard
-![]()
+<img src = "CLASS PROJECT_1.png">
+
 ---
 ## Conclusion and Recommendations
