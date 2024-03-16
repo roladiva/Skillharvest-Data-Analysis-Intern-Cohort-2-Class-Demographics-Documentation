@@ -30,7 +30,7 @@ Data was collected through survey conducted via Google Form, capturing informati
 ## Results and Findings
 
 ## Dashboard
-<img src = "CLASS PROJECT_1.png">
+<img src = "CLASS PROJECT_2.png">
 
 ---
 ## Conclusion and Recommendations
