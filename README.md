@@ -1,4 +1,5 @@
 # Skillharvest-Data-Analysis-Intern-Cohort-2-Class-Demographics-Documentation
+<img src = "SkillHarvest.jpg">
 
 ## Documentation Outline
 - [Project Overview](project-overview)
